@@ -8,9 +8,11 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "data": {
-    "data":{
-      {"name": "alan"}
-    }
-  }
+  "auth/register":[
+    {"created_at:: "2019-08-08 07:27:29"
+      "email": "asdf@daf.com"
+      "id": 2171
+      "name": "adawg671"
+      "updated_at": "2019-08-08 07:27:29"}
+  ]
 }
