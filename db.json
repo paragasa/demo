@@ -10,5 +10,8 @@
   ],
   "register" : {
     "token": "This is a template token", "user":{"id":1, "email":"test@email.com", "password":"password" }
+  },
+  "login" : {
+    "token": "This is a template token", "user":{"id":1, "email":"test@email.com", "password":"password" }
   }
 }
