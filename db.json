@@ -9,6 +9,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "register" : {
-    {"token": "This is a template token", "user":{"id":1, "email":"test@email.com", "password":"password" }}
+    "token": "This is a template token", "user":{"id":1, "email":"test@email.com", "password":"password" }
   }
 }
